@@ -1,0 +1,379 @@
+﻿++Solution 'Swarno_Invoice_Software' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Swarno_Invoice_Software.sln
+++swarno_invoice_software
+i:{00000000-0000-0000-0000-000000000000}:swarno_invoice_software
+++Properties
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\
+++References
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Animation
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\animation\
+++Components
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\
+++Controls
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\
+++EgoldsCard.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\egoldscard.cs
+++EgoldsGoogleTextBox.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\egoldsgoogletextbox.cs
+++EgoldsProgressBar.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\egoldsprogressbar.cs
+++EgoldsRadioButton.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\egoldsradiobutton.cs
+++EgoldsToggleSwitch.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\egoldstoggleswitch.cs
+++ShadowedForm.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\shadowedform.cs
+++yt_Button.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\controls\yt_button.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\yt_button.cs
+++Forms
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\
+++addCustomerPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addcustomerpage.cs
+++addProductPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addproductpage.cs
+++createPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\createpage.cs
+++defaultFrom.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\defaultfrom.cs
+++loginPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\loginpage.cs
+++mainPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\mainpage.cs
+++reportPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\reportpage.cs
+++ListForms
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\
+++customerListPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\customerlistpage.cs
+++productListPage.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\productlistpage.cs
+++MessageForm
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\messageform\
+++Resources
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\
+++RjButton
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\rjbutton\
+++SqlServerTypes
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\
+++app.config
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\app.config
+++CreateFilesAndReadWrite.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\createfilesandreadwrite.cs
+++CreateLogFilesAndWrite.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\createlogfilesandwrite.cs
+++Customer.mdf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customer.mdf
+++CustomerDataSet.xsd
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customerdataset.xsd
+++Drawer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\drawer.cs
+++FlatColors.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\flatcolors.cs
+++invoice.rdlc
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\invoice.rdlc
+++packages.config
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\packages.config
+++Products.mdf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\products.mdf
+++ProductsDataSet.xsd
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\productsdataset.xsd
+++Program.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\program.cs
+++userEntry.mdf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentry.mdf
+++userEntryDataSetReport.xsd
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentrydatasetreport.xsd
+++WinAPI.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\winapi.cs
+++AssemblyInfo.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\assemblyinfo.cs
+++Resources.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\resources.resx
+++Settings.settings
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\settings.settings
+++ComponentFactory.Krypton.Docking
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++ComponentFactory.Krypton.Navigator
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++ComponentFactory.Krypton.Ribbon
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++ComponentFactory.Krypton.Toolkit
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++ComponentFactory.Krypton.Workspace
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++EasyTabs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Fizzler
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++MaterialSkin
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.CSharp
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.ReportViewer.Common
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.ReportViewer.DataVisualization
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.ReportViewer.Design
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.ReportViewer.ProcessingObjectModel
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.ReportViewer.WinForms
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.SqlServer.Types
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.WindowsAPICodePack
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Microsoft.WindowsAPICodePack.Shell
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++PresentationCore
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++PresentationFramework
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Svg
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Buffers
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Core
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Data
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Data.DataSetExtensions
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Deployment
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Design
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Drawing
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Memory
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Numerics
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Numerics.Vectors
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Runtime.CompilerServices.Unsafe
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Web
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Web.Extensions
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Windows.Forms
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Xaml
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Xml
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++System.Xml.Linq
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Transitions
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++UIAutomationProvider
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Win32Interop.Dwmapi
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Win32Interop.Gdi32
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Win32Interop.Kernel32
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Win32Interop.User32
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Win32Interop.Uxtheme
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++WindowsBase
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++WindowsFormsIntegration
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:
+++Animation.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\animation\animation.cs
+++Animator.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\animation\animator.cs
+++EgoldsFormStyle.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\egoldsformstyle.cs
+++EgoldsStyle.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\egoldsstyle.cs
+++RoundingButtonsComponent.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\roundingbuttonscomponent.cs
+++addCustomerPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addcustomerpage.designer.cs
+++addCustomerPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addcustomerpage.resx
+++addProductPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addproductpage.designer.cs
+++addProductPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\addproductpage.resx
+++createPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\createpage.designer.cs
+++createPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\createpage.resx
+++defaultFrom.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\defaultfrom.designer.cs
+++defaultFrom.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\defaultfrom.resx
+++loginPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\loginpage.designer.cs
+++loginPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\loginpage.resx
+++mainPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\mainpage.designer.cs
+++mainPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\mainpage.resx
+++reportPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\reportpage.designer.cs
+++reportPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\forms\reportpage.resx
+++customerListPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\customerlistpage.designer.cs
+++customerListPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\customerlistpage.resx
+++productListPage.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\productlistpage.designer.cs
+++productListPage.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\listforms\productlistpage.resx
+++messageBox.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\messageform\messagebox.cs
+++add (1).png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\add (1).png
+++add.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\add.png
+++add1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\add1.png
+++addCusPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\addcuspic.png
+++addPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\addpic.png
+++addProPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\addpropic.png
+++close.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\close.png
+++closeSmall.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\closesmall.png
+++createPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\createpic.png
+++createPic1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\createpic1.png
+++delete.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\delete.png
+++deleteAll.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\deleteall.png
+++displayCusPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\displaycuspic.png
+++edit.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\edit.png
+++edit1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\edit1.png
+++error.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\error.png
+++info.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\info.png
+++message.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\message.png
+++moon.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\moon.png
+++newInvoice.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\newinvoice.png
+++openPic.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\openpic.png
+++openPic1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\openpic1.png
+++openPic2.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\openpic2.png
+++openPicNew.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\openpicnew.png
+++preview.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\preview.png
+++preview1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\preview1.png
+++reshot-icon-add-new-table-QUDVBA36TE.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\reshot-icon-add-new-table-qudvba36te.png
+++reshot-icon-login-Y8HRZLGQPF.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\reshot-icon-login-y8hrzlgqpf.png
+++roundGreen.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundgreen.png
+++roundGreenMouse.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundgreenmouse.png
+++roundGreenMouse1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundgreenmouse1.png
+++roundRed.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundred.png
+++roundRedMouse.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundredmouse.png
+++roundYellow.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundyellow.png
+++roundYellowMouseBig.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundyellowmousebig.png
+++roundYellowMouseBig1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundyellowmousebig1.png
+++roundYellowMouseSmall.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\roundyellowmousesmall.png
+++save.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\save.png
+++sun.jpg
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\sun.jpg
+++sun.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\sun.png
+++sun1.jpg
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\sun1.jpg
+++sun1.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\sun1.png
+++User.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\user.png
+++userLogin.png
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\resources\userlogin.png
+++button.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\rjbutton\button.cs
+++x64
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x64\
+++x86
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x86\
+++Loader.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\loader.cs
+++readme.htm
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\readme.htm
+++Customer_log.ldf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customer_log.ldf
+++CustomerDataSet.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customerdataset.designer.cs
+++CustomerDataSet.xsc
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customerdataset.xsc
+++CustomerDataSet.xss
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\customerdataset.xss
+++Products_log.ldf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\products_log.ldf
+++ProductsDataSet.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\productsdataset.designer.cs
+++ProductsDataSet.xsc
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\productsdataset.xsc
+++ProductsDataSet.xss
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\productsdataset.xss
+++userEntry_log.ldf
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentry_log.ldf
+++userEntryDataSetReport.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentrydatasetreport.designer.cs
+++userEntryDataSetReport.xsc
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentrydatasetreport.xsc
+++userEntryDataSetReport.xss
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\userentrydatasetreport.xss
+++Resources.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\properties\settings.designer.cs
+++EgoldsFormStyle.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\egoldsformstyle.designer.cs
+++RoundingButtonsComponent.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\components\roundingbuttonscomponent.designer.cs
+++messageBox.Designer.cs
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\messageform\messagebox.designer.cs
+++messageBox.resx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\messageform\messagebox.resx
+++msvcr120.dll
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x64\msvcr120.dll
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x86\msvcr120.dll
+++SqlServerSpatial140.dll
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x64\sqlserverspatial140.dll
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\sqlservertypes\x86\sqlserverspatial140.dll
+++swarno_invoice_software_TemporaryKey.pfx
+i:{41573ee5-b877-4f9f-a173-b432995e6382}:g:\swarno invoice software\yt_designui\swarno_invoice_software_temporarykey.pfx
